@@ -6,7 +6,7 @@ int main() {
   cout << "How many seconds did the lap take? ";
   cin >> time;
   speed = (2.5 / time * 3600);
-  cout << "The average speed was " << speed << endl;
+  cout << "The average speed was " << speed << " mph" << endl;
   
   
   
